@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: MyWeb
+  datasource:
+    url:
+    username:
+    password:
+
+server:
+  port: 8081
+
+jtc:
+  myvalue: jtcName
